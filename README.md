@@ -8,7 +8,7 @@ pip install -r requirements.txt
 ```
 
 ### Pre-trained Model
-| Dataset     |  URL           |
+| Dataset     | Safetensors url|
 |-------------|----------------|
 | FLIR        | [Google Drive](https://github.com/anon045/SpectraDiff) |
 | FMB         | [Google Drive](https://github.com/anon045/SpectraDiff) |
