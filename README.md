@@ -21,6 +21,8 @@ pip install -r requirements.txt
 | IDD-AW      | [Google Drive](https://github.com/anon045/SpectraDiff) |
 
 ### Data Prepare
+For segmentation: https://github.com/IDEA-Research/Grounded-Segment-Anything
+
 | Dataset     | URL        |
 |-------------|------------|
 | FLIR        | [URL](https://www.flir.in/oem/adas/adas-dataset-form/)                   |
@@ -28,7 +30,6 @@ pip install -r requirements.txt
 | MFNet       | [URL](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/) |
 | RANUS       | [URL](https://ieeexplore.ieee.org/document/8279453)                      |
 | IDD-AW      | [URL](https://iddaw.github.io/)                                          |
-
 
 ### Set Configuration
 The config_base.yaml file contains important settings for both training and testing.
